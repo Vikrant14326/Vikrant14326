@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikrant Kumar</h1>
 <h3 align="center">A passionate ML Engineer and Data Analyst from India</h3>
-<!-- <img align="right" alt="coding" width="400" src="![Uploading image.png…]()"> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrant14326&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant14326" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrant14326" alt="vikrant14326" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks:TensorFlow, Streamlit, Langchain,Lamma_Index,Courses: AI and ML specialization**
 
@@ -37,4 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant14326&" alt="vikrant14326" /></p>
 
-Support 🙏
