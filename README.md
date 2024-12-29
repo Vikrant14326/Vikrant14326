@@ -1,37 +1,80 @@
 <h1 align="center">Hi 👋, I'm Vikrant Kumar</h1>
-<h3 align="center">A passionate ML Engineer and Data Analyst from India</h3>
+<h3 align="center">A Passionate ML Engineer, Generative AI Engineer, and Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrant14326&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant14326" /> </p>
 
-- 🌱 I’m currently learning **Frameworks:TensorFlow, Streamlit, Langchain,Lamma_Index,Courses: AI and ML specialization**
+### 🚀 About Me:
+- 🔭 I’m currently an **AI Intern** at **Digital Darwin**, working on cutting-edge AI solutions in **sports** and **healthcare**.  
+- 🌱 Actively learning and exploring **TensorFlow, Streamlit, Langchain, Llama_Index**, and specialization courses in **AI & ML**.  
+- 👨‍💻 Explore all my projects at [GitHub](https://github.com/Vikrant14326).  
+- 🤝 Always open to **collaborations** on AI, Generative AI, and Data Science projects.  
 
-- 👯 I’m looking to collaborate on [Samvidhan Ko Jaano](https://huggingface.co/spaces/Vikrant26/SKJ)
+📧 **Reach me at:** [msa23016@iiitl.ac.in](mailto:msa23016@iiitl.ac.in)  
+📄 **My Resume:** [View Resume](https://drive.google.com/file/d/14rxX7IyXxeb_jeaoCniR8schzvndhdiK/view?usp=sharing)  
 
-- 🤝 I’m looking for help with [Food Identification and Nutrition Info.](https://huggingface.co/spaces/Vikrant26/FIANI)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vikrant14326](https://github.com/Vikrant14326)
+### 🛠️ Projects:
+#### 🔹 [Food Identification and Nutrition Info.](https://huggingface.co/spaces/Vikrant26/FINI)
+- **Description**: Generative AI system for identifying food items and retrieving nutritional data.  
+- **Tech Stack**: Python, ViT, Transformers, Gradio.  
+- **Highlight**: Deployed using Hugging Face with API Ninja integration.  
 
-- 📫 How to reach me **Email: msa23016@iiitl.ac.in**
+#### 🔹 [Samvidhan Ko Jaano](https://huggingface.co/spaces/Vikrant26/SKJ)
+- **Description**: Q&A Chatbot focusing on the **Indian Constitution**.  
+- **Tech Stack**: Streamlit, Google Gemini API, Langchain.  
+- **Highlight**: Offers voice and text-based interaction for learning.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14rxX7IyXxeb_jeaoCniR8schzvndhdiK/view?usp=sharing](https://drive.google.com/file/d/14rxX7IyXxeb_jeaoCniR8schzvndhdiK/view?usp=sharing)
+#### 🔹 [Chat with Multi PDFs](https://huggingface.co/spaces/Vikrant26/ChatwithMultiPDFs)
+- **Description**: AI-powered system for querying multiple PDFs.  
+- **Tech Stack**: GoogleGenerativeAIEmbeddings, Langchain, Streamlit.  
+- **Highlight**: Supports document content analysis with detailed responses.  
 
-- ⚡ Fun fact **I think i am funny**
+#### 🔹 [Crop Recommendation System](https://github.com/Vikrant14326/Crop_Recomendation_System)
+- **Description**: ML-based system recommending crops based on soil and weather parameters.  
+- **Tech Stack**: Python, SVM, Flask.  
+- **Highlight**: Achieved **99% accuracy** in crop prediction.  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Skills & Tools:
+#### **Languages**: Python, C++, SQL, Latex.  
+#### **Technologies**: TensorFlow, Streamlit, Flask, Langchain, Transformers, OpenCV.  
+#### **Tools**: VS Code, PyCharm, Jupyter, Kaggle, Hugging Face, AWS, Git/GitHub.  
+#### **Domains**: Machine Learning, Generative AI, Data Science, Computer Vision.  
+#### **Soft Skills**: Hardworking, Teamwork, Problem-Solving, Adaptability.  
+
+---
+
+### 🌟 Achievements:
+- Solved **200+ coding questions** across platforms like **Coding Ninja** and **Leetcode**.  
+- Passionate about **Generative AI**, specializing in **RAG** and **fine-tuning LLMs**.  
+
+---
+
+### 📬 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikrant-kumar-44bb992a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikrant-kumar-44bb992a4/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/viratgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/viratgautam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/msa23016/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/msa23016/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikrant-kumar-44bb992a4/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://www.kaggle.com/viratgautam" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/kaggle.png" alt="Kaggle"/>
+</a>
+<a href="https://leetcode.com/u/msa23016/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/code.png" alt="LeetCode"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant14326&show_icons=true&locale=en&layout=compact" alt="vikrant14326" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrant14326&show_icons=true&locale=en" alt="vikrant14326" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant14326&" alt="vikrant14326" /></p>
-
+### 📊 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrant14326&show_icons=true&locale=en" alt="vikrant14326" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant14326&" alt="vikrant14326" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikrant14326&show_icons=true&locale=en&layout=compact" alt="vikrant14326" />
+</p>
