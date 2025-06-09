@@ -6,17 +6,18 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vikrant14326&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data%20Science-blue" alt="focus areas"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-green" alt="experience"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vikrant14326&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🎯 About Me
 
 🎓 **Master's Student** in AI & ML at **IIIT Lucknow** | CGPA: 7.23  
-🔬 **AI Research Enthusiast** with expertise in Computer Vision, NLP, and Generative AI  
+🔬 **AI Enthusiast** with expertise in Multi Agentic AI, RAG, NLP, and Generative AI  
 💼 **Product Engineer Intern** at Next Quarter (Feb 2025 - Jul 2025)  
 🏆 **Kaggle Expert** with 3 Bronze Medals & Top 10% ranking  
 ☁️ **AWS Certified Cloud Practitioner** | Google AI Essentials Certified  
@@ -27,7 +28,6 @@
 
 ### 🚀 **Impact-Driven Results**
 - 🎯 Built AI models serving **5,000+ K-12 students** with 40% engagement boost
-- 📈 Achieved **92% accuracy** in computer vision for sports analytics
 - ⚡ Reduced processing time by **35%** analyzing 10,000+ data points
 - 🎬 Processed **500+ hours** of video content with 95% accuracy
 - 📱 Deployed systems serving **1,000+ daily users**
@@ -36,26 +36,197 @@
 - 🧠 **Computer Vision**: 88-94% accuracy on complex image recognition tasks
 - 🤖 **Generative AI**: Healthcare diagnostics with 25% faster diagnosis
 - 📊 **Machine Learning**: Advanced algorithms for real-world applications
-- 🌐 **Full-Stack AI**: From model development to production deployment
 
----
+## 🛠️ Tech Arsenal & Gaming Stats
 
-## 🛠️ Tech Arsenal
+<div align="center">
 
-### **Languages & Frameworks**
+### 🎮 **Developer Stats & Achievements**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikrant-kumar-44bb992a4/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/viratgautam" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle&style=for-the-badge" alt="kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/msa23016/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?logo=leetcode&style=for-the-badge" alt="leetcode" />
+  </a>
+</p>
+
+### 🏅 **Achievement Badges**
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_AWS-Certified_Practitioner-yellow?style=for-the-badge" alt="aws cert"/>
+  <img src="https://img.shields.io/badge/🤖_Google-AI_Essentials-green?style=for-the-badge" alt="google ai"/>
+  <img src="https://img.shields.io/badge/💻_Problems-200+_Solved-red?style=for-the-badge" alt="coding problems"/>
+</p>
+
+</div>
+
+## 🔧 Languages and Tools
+
+<div>
+
+### **Programming Languages:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
+    <br>R
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+    <br>SQL
+  </td>
+</tr>
+</table>
+
+### **AI & Machine Learning Frameworks:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+    <br>PyTorch
+  </td>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
+    <br>TensorFlow
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+    <br>Scikit-learn
+  </td>
+  <td align="center" width="96">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Transformers" />
+    <br>Transformers
+  </td>
+  <td align="center" width="96">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+    <br>Hugging Face
+  </td>
+</tr>
+</table>
+
+### **Data Science & Computer Vision Libraries:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+    <br>OpenCV
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="48" height="48" alt="NumPy" />
+    <br>NumPy
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+    <br>Pandas
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+    <br>Matplotlib
+  </td>
+  <td align="center" width="96">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+    <br>Seaborn
+  </td>
+</tr>
+</table>
+
+### **Web Development & Deployment:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
+    <br>Streamlit
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+    <br>Flask
+  </td>
+  <td align="center" width="96">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48" height="48" alt="FastAPI" />
+    <br>FastAPI
+  </td>
+  <td align="center" width="96">
+    <img src="https://gradio.app/assets/img/logo.svg" width="48" height="48" alt="Gradio" />
+    <br>Gradio
+  </td>
+</tr>
+</table>
+
+### **Cloud Platforms & DevOps:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+    <br>AWS
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
+    <br>GCP
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+    <br>Jenkins
+  </td>
+</tr>
+</table>
+
+### **Development Tools & IDEs:**
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+    <br>PyCharm
+  </td>
+  <td align="center" width="96">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+    <br>Jupyter
+  </td>
+  <td align="center" width="96">
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" width="48" height="48" alt="Kaggle" />
+    <br>Kaggle
+  </td>
+</tr>
+</table>
+
+</div>
+
+### **Specialization Areas:**
 ```python
-Languages    = ["Python", "C++", "SQL", "JavaScript", "R"]
-ML_AI        = ["TensorFlow", "PyTorch", "Scikit-learn", "Transformers", "Hugging Face"]
-Specialties  = ["Computer Vision", "NLP", "Deep Learning", "Generative AI", "LLMs"]
-Cloud_Tools  = ["AWS", "GCP", "Docker", "Git", "Jenkins"]
+specialties = {
+    "Computer Vision": ["Object Detection", "Image Classification", "Video Analysis"],
+    "NLP & LLMs": ["Text Summarization", "Q&A Systems", "RAG", "Fine-tuning"],
+    "Generative AI": ["Multi-agent Systems", "Chatbots", "Content Generation"],
+    "Data Science": ["Statistical Analysis", "Predictive Modeling", "MLOps"],
+    "Production ML": ["Scalable Deployment", "API Development", "Performance Optimization"]
+}
 ```
-
-### **Areas of Expertise**
-- 🤖 **Generative AI & LLMs**: RAG, Fine-tuning, Multi-agent Systems
-- 👁️ **Computer Vision**: Object Detection, Image Classification, Video Analysis
-- 🗣️ **Natural Language Processing**: Text Summarization, Q&A Systems
-- 📊 **Data Science**: Statistical Analysis, Predictive Modeling, MLOps
-- ☁️ **Production ML**: Scalable Deployment, API Development, Performance Optimization
 
 ---
 
@@ -111,22 +282,49 @@ Cloud_Tools  = ["AWS", "GCP", "Docker", "Git", "Jenkins"]
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Game Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantkumar&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+### 📈 **GitHub Statistics**
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikrant14326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant14326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+### 🔥 **Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrant14326&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 📊 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikrant14326&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+### 🎮 **Developer Game Progress**
+<div align="center">
+  <img src="https://img.shields.io/badge/Level-Senior_AI_Engineer-brightgreen?style=for-the-badge&logo=level-up" alt="level"/>
+  <img src="https://img.shields.io/badge/XP-10000+-blue?style=for-the-badge&logo=experience" alt="experience points"/>
+  <img src="https://img.shields.io/badge/Streak-Consistent_Coder-orange?style=for-the-badge&logo=fire" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantkumar&theme=tokyonight" alt="streak stats"/>
+  <h4>🏅 Current Achievements Unlocked:</h4>
+  <img src="https://img.shields.io/badge/🎯-Kaggle_Expert-gold"/>
+  <img src="https://img.shields.io/badge/☁️-Cloud_Certified-skyblue"/>
+  <img src="https://img.shields.io/badge/🤖-AI_Specialist-purple"/>
+  <img src="https://img.shields.io/badge/📊-Data_Wizard-green"/>
+  <img src="https://img.shields.io/badge/💻-Code_Master-red"/>
 </div>
 
 ---
 
 ## 🏅 Achievements & Recognition
-
-- 🥉 **3 Kaggle Bronze Medals** | Expert Level (Top 10%)
 - ☁️ **AWS Certified Cloud Practitioner** (2024)
 - 🤖 **Google AI Essentials Certificate** (2024)
 - 💻 **200+ Coding Problems Solved** (LeetCode, Coding Ninja)
@@ -134,10 +332,11 @@ Cloud_Tools  = ["AWS", "GCP", "Docker", "Git", "Jenkins"]
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🌐 Connect & Collaborate
 
-I'm passionate about pushing the boundaries of AI and always excited to collaborate on innovative projects!
+<div align="center">
 
+### 🎮 **Social Gaming Profile**
 <p align="center">
   <a href="https://www.linkedin.com/in/vikrant-kumar-44bb992a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -156,20 +355,33 @@ I'm passionate about pushing the boundaries of AI and always excited to collabor
   </a>
 </p>
 
+### 🔥 **Current Mission Status**
 <div align="center">
-  <h3>💼 Resume: <a href="https://drive.google.com/file/d/14rxX7IyXxeb_jeaoCniR8schzvndhdiK/view?usp=sharing">View My Complete Profile</a></h3>
+  <img src="https://img.shields.io/badge/🎯_Current_Quest-Building_Next_Gen_AI-brightgreen?style=for-the-badge" alt="current quest"/>
+  <img src="https://img.shields.io/badge/🚀_Side_Quest-Open_Source_Contributions-blue?style=for-the-badge" alt="side quest"/>
+  <img src="https://img.shields.io/badge/💼_Main_Objective-Product_Engineering-purple?style=for-the-badge" alt="main objective"/>
+</div>
+
+<h3>💼 Resume: <a href="https://drive.google.com/file/d/14rxX7IyXxeb_jeaoCniR8schzvndhdiK/view?usp=sharing">View My Complete Profile</a></h3>
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-</div>
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 <div align="center">
   
 ### 🚀 "Transforming Ideas into Intelligent Solutions" 🚀
 
-*Open to exciting opportunities in AI, ML, and Data Science!*
+*🎮 Ready for the next coding adventure? Let's build something amazing together!*
 
+**⚡ Current Status: Available for exciting AI/ML opportunities! ⚡**
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikrant14326&style=for-the-badge&color=orange" alt="profile views"/>
 </div>
